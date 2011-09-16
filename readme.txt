@@ -15,36 +15,11 @@ Vagalume Toolbar
 Mantenha o seu usuário por mais tempo no seu site!
 Com o Vagalume Toolbar seu usuário não precisa sair do seu site para acessar todas as letras de músicas, clipes com legenda (embed de vídeos), ranking das músicas mais acessadas e muito mais!
 
-You can make any modifications to this code.
-Please read API Terms at www.vagalume.com.br/api/terms/
-
-IMPORTANT: VAGALUME LOGO AND LINK MUST BE PRESENT ON THE PAGE
-
-Copyright Vagalume Midia Ltda. All rights reserved.
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to
-deal in the Software without restriction, including without limitation the
-rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
-sell copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
-FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
-IN THE SOFTWARE.
+Para saber mais acesse: www.vagalume.com.br e conheça também a nossa API para Desenvolvedores:  www.vagalume.com.br/api
 
 == Installation ==
 
-This section describes how to install the plugin and get it working.
-
-e.g.
+Veja como é fácil instalar e configurar a Vagalume toolbar:
 
 1. Baixe o plugin e coloque o diretório descompactado em `/wp-content/plugins/`.
 1. Ative o plugin no Menu 'Plugins' do Painel do WordPress
