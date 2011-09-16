@@ -58,10 +58,6 @@ e.g.
 
 Acesse http://www.vagalume.com.br/widgets/toolbar/ para maiores dúvidas.
 
-= What about foo bar? =
-
-Answer to foo bar dilemma.
-
 == Screenshots ==
 
 1. This screen shot description corresponds to screenshot-1.(png|jpg|jpeg|gif). Note that the screenshot is taken from
