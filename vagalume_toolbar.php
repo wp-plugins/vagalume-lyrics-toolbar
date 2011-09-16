@@ -34,8 +34,8 @@ FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
 IN THE SOFTWARE.
 */
 define(FILE_DATA,"data-vagalume-toolbar.json");
-define(PATH_FILE_SET,"/wp-content/plugins/vagalume-lyrics-toolbar/".FILE_DATA);
-define(PATH_FILE_GET,"/wp-content/plugins/vagalume-lyrics-toolbar/".FILE_DATA);
+define(PATH_FILE_SET,"../wp-content/plugins/vagalume-lyrics-toolbar/".FILE_DATA);
+define(PATH_FILE_GET,"../wp-content/plugins/vagalume-lyrics-toolbar/".FILE_DATA);
 define(PATH_FILE_PLUGIN,"/wp-content/plugins/vagalume-lyrics-toolbar/");
 
 
