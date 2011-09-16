@@ -23,7 +23,7 @@ Veja como é fácil instalar e configurar a Vagalume toolbar:
 
 1. Baixe o plugin e coloque o diretório descompactado em `/wp-content/plugins/`.
 1. Ative o plugin no Menu 'Plugins' do Painel do WordPress
-1. Configure os dados da barra em 'Confogurações>Vagalume toolbar' e pronto.
+1. Configure os dados da barra em 'Configurações>Vagalume toolbar' e pronto.
 
 == Frequently Asked Questions ==
 
