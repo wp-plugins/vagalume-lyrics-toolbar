@@ -46,10 +46,9 @@ This section describes how to install the plugin and get it working.
 
 e.g.
 
-1. Upload `plugin-name.php` to the `/wp-content/plugins/` directory
-1. Activate the plugin through the 'Plugins' menu in WordPress
-1. Configure plugin on your own panel in Configuration Menu
-1. In configuration define a artist to start works
+1. Baixe o plugin e coloque o diretório descompactado em `/wp-content/plugins/`.
+1. Ative o plugin no Menu 'Plugins' do Painel do WordPress
+1. Configure os dados da barra em 'Confogurações>Vagalume toolbar' e pronto.
 
 == Frequently Asked Questions ==
 
