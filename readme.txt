@@ -1,6 +1,6 @@
-=== Plugin Name ===
+ï»¿=== Plugin Name ===
 Contributors: Vagalume
-Tags: vagalume toolbar, vagalume, lyrics, music, letras de músicas, música, widget, plugin
+Tags: vagalume toolbar, vagalume, lyrics, music, letras, mÃºsicas, widget, plugin
 Requires at least: 3.0
 Tested up to: 3.0
 Stable tag: 1.0
@@ -12,9 +12,9 @@ Here is a short description of the plugin.  This should be no more than 150 char
 
 Vagalume Toolbar
 
-Um pedaço do Vagalume dentro do seu site!
-Mantenha o seu usuário por mais tempo no seu site!
-Com o Vagalume Toolbar seu usuário não precisa sair do seu site para acessar todas as letras de músicas, clipes com legenda (embed de vídeos), ranking das músicas mais acessadas e muito mais!
+Um pedaÃ§o do Vagalume dentro do seu site!
+Mantenha o seu usuÃ¡rio por mais tempo no seu site!
+Com o Vagalume Toolbar seu usuÃ¡rio nÃ£o precisa sair do seu site para acessar todas as letras de mÃºsicas, clipes com legenda (embed de vÃ­deos), ranking das mÃºsicas mais acessadas e muito mais!
 
 You can make any modifications to this code.
 Please read API Terms at www.vagalume.com.br/api/terms/
@@ -54,9 +54,9 @@ e.g.
 
 == Frequently Asked Questions ==
 
-= Como obter mais informações sobre o plugin? =
+= Como obter mais informaÃ§Ãµes sobre o plugin? =
 
-Acesse http://www.vagalume.com.br/widgets/toolbar/ para maiores dúvidas.
+Acesse http://www.vagalume.com.br/widgets/toolbar/ para maiores dÃºvidas.
 
 = What about foo bar? =
 
@@ -71,12 +71,12 @@ the directory of the stable readme.txt, so in this case, `/tags/4.3/screenshot-1
 == Changelog ==
 
 = 1.0 =
-* First version - estável
+* First version - estable
 
 == Upgrade Notice ==
 
 = 1.0 =
-* First version - estável
+* First version - estable
 
 == Arbitrary section ==
 
